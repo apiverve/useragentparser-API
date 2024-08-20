@@ -87,7 +87,8 @@ api.execute(query, function (error, data) {
     },
     "device": {},
     "cpu": {}
-  }
+  },
+  "code": 200
 }
 ```
 
